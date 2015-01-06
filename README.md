@@ -7,7 +7,7 @@ Repository for the course material of ID 405 - M - Human Computer Interaction De
 
 Instructor: **Prof. Venkatesh Rajamanickam**
 
-**Registration**: ASC may require some students to register manually. If so, please use this registration form and take my signature by Jan 10 at 11 am.
+**Registration**: ASC may require some students to register manually. If so, please use [this registration form](files/ID405 HCI Minor Regn Form.pdf) and take my signature by Jan 10 at 11 am.
 
 **Timings**: Wednesdays and Fridays 9:30 am to 11 am (LT 301), and some Saturdays (IDC auditorium). There could be surprise quizzes from time to time.
 
