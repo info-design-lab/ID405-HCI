@@ -1,7 +1,7 @@
-ID405-HCIDesign
-===============
+ID405-HCI
+=========
 
-Repository for the course material of ID 405 - M - Human Computer Interaction Design at IDC, IIT Bombay
+Repository for the course material of ID 405 - M - Human Computer Interaction at IDC, IIT Bombay
 
 ###Course Overview
 
